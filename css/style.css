@@ -351,8 +351,7 @@ a{
 	background:#d98cb283;
 }
 .list li{
-	background: url(../img/icon_cat.png) 100% 0  /  auto 50px no-repeat;
-	display: block;
+	background: url(../img/icon_cat.png) 100% 0 / auto 50px no-repeat;
 	font-size: 30px;
 	line-height: 50px;
 	padding: 0px 60px 0px 0px;
