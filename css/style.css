@@ -311,9 +311,7 @@ a{
 	max-height: 500px;
 	color: ghostwhite;
 }
-.background-attachment-three::-webkit-scrollbar{
-		width: 0px;
-	}
+
 
 /*================BACKGROUND-SIZE=================*/
 .background-size-one{
