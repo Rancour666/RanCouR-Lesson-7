@@ -149,7 +149,7 @@ a{
 
 /*================HEADER=================*/
 .header {
-	background: url('../img/brick.jpg') 0 0 / no-repeat;
+	background: url('../img/brick.jpg') 0 0 no-repeat;
 	padding: 30px 30px;
 	margin: 0px 0px 30px 0px;
 }
